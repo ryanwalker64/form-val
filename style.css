@@ -1,0 +1,20 @@
+input:invalid {
+    outline: red 1px solid;
+}
+
+input:valid {
+    outline: green 1px solid;
+}
+
+input:focus {
+    outline: none;
+}
+
+input {
+    font-size: 1.2em;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: red;
+}
